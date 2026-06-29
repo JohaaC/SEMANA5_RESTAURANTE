@@ -2,7 +2,7 @@
 
 ## Nombre del estudiante
 
-(Escribe aquí tu nombre)
+**Johana Lorena Castro Albán**
 
 ## Carrera
 
@@ -14,11 +14,11 @@ Programación Orientada a Objetos
 
 ## Descripción
 
-Este proyecto consiste en un sistema básico de gestión de un restaurante desarrollado en Python utilizando Programación Orientada a Objetos. El sistema permite registrar productos y clientes mediante clases, objetos e importaciones organizadas de forma modular.
+Este proyecto consiste en un sistema básico de gestión de un restaurante desarrollado en Python utilizando Programación Orientada a Objetos. El sistema permite registrar productos y clientes mediante clases, objetos e importaciones organizadas de forma modular. Además, se aplican identificadores descriptivos, tipos de datos básicos (`str`, `int`, `float` y `bool`), listas para almacenar objetos y el método especial `__str__()` para representar la información de forma organizada.
 
 ## Estructura del proyecto
 
-```
+```text
 restaurante_app/
 │
 ├── modelos/
@@ -35,12 +35,12 @@ restaurante_app/
 
 ## Tipos de datos utilizados
 
-- str
-- int
-- float
-- bool
-- list
+* `str`: nombres, categorías y correos electrónicos.
+* `int`: edad de los clientes y cantidad de productos.
+* `float`: precio de los productos.
+* `bool`: disponibilidad de los productos y estado del cliente.
+* `list`: almacenamiento de los productos y clientes registrados en el restaurante.
 
 ## Reflexión
 
-La Programación Orientada a Objetos permite organizar mejor el código mediante clases y objetos. El uso de identificadores descriptivos, tipos de datos adecuados y listas facilita el mantenimiento del programa y hace que el código sea más claro y reutilizable.
+La Programación Orientada a Objetos permite desarrollar aplicaciones más organizadas y fáciles de mantener mediante el uso de clases y objetos. El empleo de identificadores descriptivos, tipos de datos adecuados y listas facilita la comprensión del código, mejora su reutilización y contribuye a una mejor estructura del proyecto, siguiendo las buenas prácticas de programación en Python.
